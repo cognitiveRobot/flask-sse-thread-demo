@@ -6,7 +6,15 @@ A server sent event based demo to send data from the server to the clients. Read
 * Server side - Flask, Queue, Thread, Gevent
 * Client side - JQuery and Materialize
 
+#### Prerequisites 
+```
+Python >= 3.6
+Virtualenv
+```
+
 ### Installation
+Plesase follow the steps below to run the up.
+
 ```
 $ git clone git@github.com:cognitiveRobot/flask-sse-thread-demo.git
 $ python3 -m venv venv
