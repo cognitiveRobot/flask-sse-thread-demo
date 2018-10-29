@@ -13,7 +13,7 @@ Virtualenv
 ```
 
 ### Installation
-Plesase follow the steps below to run the up.
+Plesase follow the steps below to run the demo.
 
 ```
 $ git clone git@github.com:cognitiveRobot/flask-sse-thread-demo.git
@@ -22,3 +22,5 @@ $ souce venv/bin/activate
 $ pip install -r requirments.txt
 $ python app.py
 ```
+
+-- if you find any issue, don't hesitate to raise that. I will reply as early as possible.
