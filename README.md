@@ -5,3 +5,12 @@ A server sent event based demo to send data from the server to the clients. Read
 #### Main Components
 * Server side - Flask, Queue, Thread, Gevent
 * Client side - JQuery and Materialize
+
+### Installation
+```
+$ git clone git@github.com:cognitiveRobot/flask-sse-thread-demo.git
+$ python3 -m venv venv
+$ souce venv/bin/activate
+$ pip install -r requirments.txt
+$ python app.py
+```
